@@ -229,5 +229,5 @@ const AddHeader = ()=>{
     Channels:()=>InitPayment()
   }
 }
-export default OnlyPass;
+window.OnlyPass;
 
