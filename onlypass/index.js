@@ -5,7 +5,6 @@ var BaseUrl = "https://api.onlypassafrica.com/api/v1/external/payments";
 // {
 //   var BaseUrl = "https://devapi.onlypassafrica.com/api/v1/external/payments";
 // }
-(function(){
 // const OnlyPass = (apiKey,merchantId,isDemo = true)=>{
 //   const UniqueID = (d,prefix = "")=> {
 //     var text = "";
@@ -229,6 +228,5 @@ var BaseUrl = "https://api.onlypassafrica.com/api/v1/external/payments";
 //     Channels:()=>InitPayment()
 //   }
 // }
-window.OnlyPass = {};
-})(window)
+window.OnlyPass = {t:true};
 
