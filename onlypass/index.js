@@ -1,3 +1,4 @@
+"use strict";
 // https://cdn.jsdelivr.net/gh/marshalsoft/jslib/onlypass/index.js
 const env = "test";
 var BaseUrl = "https://api.onlypassafrica.com/api/v1/external/payments";
