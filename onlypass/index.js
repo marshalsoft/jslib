@@ -230,3 +230,4 @@ var BaseUrl = "https://api.onlypassafrica.com/api/v1/external/payments";
 // }
 window.OnlyPass = {t:true};
 
+alert("++")
