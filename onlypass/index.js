@@ -1,3 +1,4 @@
+alert("kl")
 (function(global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined'
       ? factory(exports)
